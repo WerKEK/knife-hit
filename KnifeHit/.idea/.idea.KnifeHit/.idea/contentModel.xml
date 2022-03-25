@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\WerKEK\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\WerKEK\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_KnifeHit.-1284866766.00" t="ExcludeRecursive" />
+    <e p="E:\Projects\kh\KnifeHit" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AppleSpawner.cs" t="Include" />
+          <e p="Boom.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="KnifeSpawner.cs" t="Include" />
+          <e p="Menu.cs" t="Include" />
+          <e p="Motor.cs" t="Include" />
+          <e p="Shacking.cs" t="Include" />
+          <e p="Thrower.cs" t="Include" />
+          <e p="UI.cs" t="Include" />
+          <e p="Wood.cs" t="Include" />
+        </e>
+      </e>
+      <e p="KnifeHit.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
